@@ -1,3 +1,3 @@
 # mi_primer_repo
 
-## Este repo es para experimentar
+## Este repo es para experimentar.
